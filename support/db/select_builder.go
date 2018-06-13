@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/stellar/go/support/errors"
+	"github.com/actionorg/go-action-sdk/support/errors"
 )
 
 // Exec executes the query represented by the builder, populating the

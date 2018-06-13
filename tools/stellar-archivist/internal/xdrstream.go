@@ -14,7 +14,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/stellar/go/xdr"
+	"github.com/actionorg/go-action-sdk/xdr"
 )
 
 type XdrStream struct {

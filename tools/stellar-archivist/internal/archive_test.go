@@ -14,7 +14,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stellar/go/xdr"
+	"github.com/actionorg/go-action-sdk/xdr"
 	"github.com/stretchr/testify/assert"
 )
 

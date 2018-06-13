@@ -7,9 +7,9 @@ import (
 	"net/url"
 
 	"github.com/pkg/errors"
-	"github.com/stellar/go/address"
-	proto "github.com/stellar/go/protocols/federation"
-	"github.com/stellar/go/support/log"
+	"github.com/actionorg/go-action-sdk/address"
+	proto "github.com/actionorg/go-action-sdk/protocols/federation"
+	"github.com/actionorg/go-action-sdk/support/log"
 )
 
 func (h *Handler) ServeHTTP(w http.ResponseWriter, r *http.Request) {

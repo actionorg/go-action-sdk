@@ -1,9 +1,9 @@
 package build
 
 import (
-	"github.com/stellar/go/amount"
-	"github.com/stellar/go/support/errors"
-	"github.com/stellar/go/xdr"
+	"github.com/actionorg/go-action-sdk/amount"
+	"github.com/actionorg/go-action-sdk/support/errors"
+	"github.com/actionorg/go-action-sdk/xdr"
 )
 
 // CreateAccount groups the creation of a new CreateAccountBuilder with a call

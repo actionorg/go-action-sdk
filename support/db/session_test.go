@@ -3,7 +3,7 @@ package db
 import (
 	"testing"
 
-	"github.com/stellar/go/support/db/dbtest"
+	"github.com/actionorg/go-action-sdk/support/db/dbtest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -3,7 +3,7 @@ package build
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/stellar/go/xdr"
+	"github.com/actionorg/go-action-sdk/xdr"
 )
 
 var _ = Describe("CreateAccountBuilder Mutators", func() {

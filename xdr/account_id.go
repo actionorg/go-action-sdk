@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/stellar/go/strkey"
+	"github.com/actionorg/go-action-sdk/strkey"
 )
 
 // Address returns the strkey encoded form of this AccountId.  This method will

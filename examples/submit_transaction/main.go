@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/stellar/go/clients/horizon"
+	"github.com/actionorg/go-action-sdk/clients/horizon"
 )
 
 func main() {

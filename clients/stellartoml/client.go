@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/BurntSushi/toml"
-	"github.com/stellar/go/address"
-	"github.com/stellar/go/support/errors"
+	"github.com/actionorg/go-action-sdk/address"
+	"github.com/actionorg/go-action-sdk/support/errors"
 )
 
 // GetStellarToml returns stellar.toml file for a given domain

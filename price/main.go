@@ -10,7 +10,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/stellar/go/xdr"
+	"github.com/actionorg/go-action-sdk/xdr"
 )
 
 // Parse  calculates and returns the best rational approximation of the given

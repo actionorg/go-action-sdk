@@ -16,7 +16,7 @@ import (
 
 	"github.com/Masterminds/squirrel"
 	"github.com/jmoiron/sqlx"
-	"github.com/stellar/go/support/errors"
+	"github.com/actionorg/go-action-sdk/support/errors"
 	"golang.org/x/net/context"
 
 	// Enable mysql
